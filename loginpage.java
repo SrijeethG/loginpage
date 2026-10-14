@@ -12,4 +12,12 @@ class Login{
     void hub(){
         System.out.println("yt");
     }
+
+    public static void main(String[] args) {
+        System.out.println("Login Page");
+    }
+
+    void otp(){
+        System.out.println("otp");
+    }
 }
